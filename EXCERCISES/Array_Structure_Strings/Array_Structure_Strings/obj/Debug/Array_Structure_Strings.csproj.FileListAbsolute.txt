@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\Array_Structure_Strings\Array_Structure_Strings\bin\Debug\Array_Structure_Strings.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\Array_Structure_Strings\Array_Structure_Strings\bin\Debug\Array_Structure_Strings.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\Array_Structure_Strings\Array_Structure_Strings\bin\Debug\Array_Structure_Strings.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\Array_Structure_Strings\Array_Structure_Strings\obj\Debug\Array_Structure_Strings.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\Array_Structure_Strings\Array_Structure_Strings\obj\Debug\Array_Structure_Strings.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\Array_Structure_Strings\Array_Structure_Strings\obj\Debug\Array_Structure_Strings.pdb

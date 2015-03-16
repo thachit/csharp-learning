@@ -1,0 +1,5 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\lession_1\lession_1\bin\Debug\lession_1.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\lession_1\lession_1\bin\Debug\lession_1.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\lession_1\lession_1\bin\Debug\lession_1.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\lession_1\lession_1\obj\Debug\lession_1.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\lession_1\lession_1\obj\Debug\lession_1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\EnumApplication\EnumApplication\bin\Debug\EnumApplication.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\EnumApplication\EnumApplication\bin\Debug\EnumApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\EnumApplication\EnumApplication\bin\Debug\EnumApplication.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\EnumApplication\EnumApplication\obj\Debug\EnumApplication.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\EnumApplication\EnumApplication\obj\Debug\EnumApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\EnumApplication\EnumApplication\obj\Debug\EnumApplication.pdb

@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\StructApplication\StructApplication\bin\Debug\StructApplication.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\StructApplication\StructApplication\bin\Debug\StructApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\StructApplication\StructApplication\bin\Debug\StructApplication.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\StructApplication\StructApplication\obj\Debug\StructApplication.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\StructApplication\StructApplication\obj\Debug\StructApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\StructApplication\StructApplication\obj\Debug\StructApplication.pdb

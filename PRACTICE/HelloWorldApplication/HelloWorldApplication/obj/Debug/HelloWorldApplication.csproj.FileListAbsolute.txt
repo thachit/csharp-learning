@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\HelloWorldApplication\HelloWorldApplication\bin\Debug\HelloWorldApplication.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\HelloWorldApplication\HelloWorldApplication\obj\Debug\HelloWorldApplication.pdb

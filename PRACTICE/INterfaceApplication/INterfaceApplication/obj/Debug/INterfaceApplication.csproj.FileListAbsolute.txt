@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\INterfaceApplication\INterfaceApplication\bin\Debug\INterfaceApplication.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\INterfaceApplication\INterfaceApplication\obj\Debug\INterfaceApplication.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\INterfaceApplication\INterfaceApplication\bin\Debug\INterfaceApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\INterfaceApplication\INterfaceApplication\bin\Debug\INterfaceApplication.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\INterfaceApplication\INterfaceApplication\obj\Debug\INterfaceApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\INterfaceApplication\INterfaceApplication\obj\Debug\INterfaceApplication.pdb

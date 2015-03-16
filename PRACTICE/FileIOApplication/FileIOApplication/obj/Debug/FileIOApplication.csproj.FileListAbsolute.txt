@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\FileIOApplication\FileIOApplication\bin\Debug\FileIOApplication.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\FileIOApplication\FileIOApplication\bin\Debug\FileIOApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\FileIOApplication\FileIOApplication\bin\Debug\FileIOApplication.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\FileIOApplication\FileIOApplication\obj\Debug\FileIOApplication.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\FileIOApplication\FileIOApplication\obj\Debug\FileIOApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\FileIOApplication\FileIOApplication\obj\Debug\FileIOApplication.pdb

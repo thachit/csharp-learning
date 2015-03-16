@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\MethodApplication\MethodApplication\bin\Debug\MethodApplication.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\MethodApplication\MethodApplication\bin\Debug\MethodApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\MethodApplication\MethodApplication\bin\Debug\MethodApplication.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\MethodApplication\MethodApplication\obj\Debug\MethodApplication.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\MethodApplication\MethodApplication\obj\Debug\MethodApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\MethodApplication\MethodApplication\obj\Debug\MethodApplication.pdb

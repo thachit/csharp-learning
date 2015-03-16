@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\VariableApplication\VariableApplication\bin\Debug\VariableApplication.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\VariableApplication\VariableApplication\bin\Debug\VariableApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\VariableApplication\VariableApplication\bin\Debug\VariableApplication.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\VariableApplication\VariableApplication\obj\Debug\VariableApplication.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\VariableApplication\VariableApplication\obj\Debug\VariableApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\VariableApplication\VariableApplication\obj\Debug\VariableApplication.pdb

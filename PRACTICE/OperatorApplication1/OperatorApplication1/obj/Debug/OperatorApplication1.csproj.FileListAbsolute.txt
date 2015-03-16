@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\OperatorApplication1\OperatorApplication1\bin\Debug\OperatorApplication1.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\OperatorApplication1\OperatorApplication1\bin\Debug\OperatorApplication1.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\OperatorApplication1\OperatorApplication1\bin\Debug\OperatorApplication1.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\OperatorApplication1\OperatorApplication1\obj\Debug\OperatorApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\OperatorApplication1\OperatorApplication1\obj\Debug\OperatorApplication1.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\OperatorApplication1\OperatorApplication1\obj\Debug\OperatorApplication1.pdb

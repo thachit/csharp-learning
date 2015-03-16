@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\FileManagementApplication\FileManagementApplication\bin\Debug\FileManagementApplication.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\FileManagementApplication\FileManagementApplication\bin\Debug\FileManagementApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\FileManagementApplication\FileManagementApplication\bin\Debug\FileManagementApplication.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\FileManagementApplication\FileManagementApplication\obj\Debug\FileManagementApplication.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\FileManagementApplication\FileManagementApplication\obj\Debug\FileManagementApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\FileManagementApplication\FileManagementApplication\obj\Debug\FileManagementApplication.pdb

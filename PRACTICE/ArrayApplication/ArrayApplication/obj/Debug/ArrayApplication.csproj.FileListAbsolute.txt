@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\ArrayApplication\ArrayApplication\bin\Debug\ArrayApplication.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\ArrayApplication\ArrayApplication\bin\Debug\ArrayApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\ArrayApplication\ArrayApplication\bin\Debug\ArrayApplication.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\ArrayApplication\ArrayApplication\obj\Debug\ArrayApplication.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\ArrayApplication\ArrayApplication\obj\Debug\ArrayApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\ArrayApplication\ArrayApplication\obj\Debug\ArrayApplication.pdb

@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\MoreOnClassApplication\MoreOnClassApplication\bin\Debug\MoreOnClassApplication.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\MoreOnClassApplication\MoreOnClassApplication\bin\Debug\MoreOnClassApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\MoreOnClassApplication\MoreOnClassApplication\bin\Debug\MoreOnClassApplication.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\MoreOnClassApplication\MoreOnClassApplication\obj\Debug\MoreOnClassApplication.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\MoreOnClassApplication\MoreOnClassApplication\obj\Debug\MoreOnClassApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\MoreOnClassApplication\MoreOnClassApplication\obj\Debug\MoreOnClassApplication.pdb

@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\inheritanceApplication\inheritanceApplication\bin\Debug\inheritanceApplication.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\inheritanceApplication\inheritanceApplication\bin\Debug\inheritanceApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\inheritanceApplication\inheritanceApplication\bin\Debug\inheritanceApplication.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\inheritanceApplication\inheritanceApplication\obj\Debug\inheritanceApplication.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\inheritanceApplication\inheritanceApplication\obj\Debug\inheritanceApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\inheritanceApplication\inheritanceApplication\obj\Debug\inheritanceApplication.pdb

@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\EncapsulationApplication\EncapsulationApplication\bin\Debug\EncapsulationApplication.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\EncapsulationApplication\EncapsulationApplication\bin\Debug\EncapsulationApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\EncapsulationApplication\EncapsulationApplication\bin\Debug\EncapsulationApplication.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\EncapsulationApplication\EncapsulationApplication\obj\Debug\EncapsulationApplication.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\EncapsulationApplication\EncapsulationApplication\obj\Debug\EncapsulationApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\EncapsulationApplication\EncapsulationApplication\obj\Debug\EncapsulationApplication.pdb

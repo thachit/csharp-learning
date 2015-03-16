@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\LoopApplication\LoopApplication\bin\Debug\LoopApplication.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\LoopApplication\LoopApplication\bin\Debug\LoopApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\LoopApplication\LoopApplication\bin\Debug\LoopApplication.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\LoopApplication\LoopApplication\obj\Debug\LoopApplication.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\LoopApplication\LoopApplication\obj\Debug\LoopApplication.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\PRACTICE\LoopApplication\LoopApplication\obj\Debug\LoopApplication.pdb

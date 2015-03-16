@@ -1,0 +1,6 @@
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\OOPProgramming\OOPProgramming\bin\Debug\OOPProgramming.exe.config
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\OOPProgramming\OOPProgramming\bin\Debug\OOPProgramming.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\OOPProgramming\OOPProgramming\bin\Debug\OOPProgramming.pdb
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\OOPProgramming\OOPProgramming\obj\Debug\OOPProgramming.csprojResolveAssemblyReference.cache
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\OOPProgramming\OOPProgramming\obj\Debug\OOPProgramming.exe
+C:\Users\Thach Nguyen\Dropbox\LEARNING\LEARNING\C#\EXCERCISES\OOPProgramming\OOPProgramming\obj\Debug\OOPProgramming.pdb
